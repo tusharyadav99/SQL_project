@@ -1,6 +1,10 @@
 # 🚀 Data Analyst Job Market Exploration
 
-Welcome to my deep dive into the **data analyst job market**! This project is a comprehensive analysis of 💰 **top-paying roles**, 🔥 **in-demand skills**, and 📈 **optimal skill sets** to thrive in the field of data analytics. Through SQL-powered insights, I’ve uncovered trends that can help aspiring data analysts navigate their career paths effectively.
+Welcome to my deep dive into the **data analyst job market**! This project is a comprehensive analysis of 💰 **top-paying roles**, 🔥 **in-demand skills**, and 📈 **optimal skill sets** to thrive in the field of data analytics. Through SQL-powered insights, I’ve uncovered trends that can help aspiring data analysts navigate their career paths effectively.  
+
+<p align="center">
+    <img src="https://tenor.com/vquKVbdFvWO.gif" alt="FunnyGIF">
+</p>
 
 ---
 
@@ -120,7 +124,3 @@ Feel free to explore the SQL queries and analysis in the [project_sql folder](/P
 Thank you for taking the time to explore my project! 🚀
 
 ---
-
-<p align="center">
-    <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Funny End GIF">
-</p>
