@@ -2,9 +2,9 @@
 
 Welcome to my deep dive into the **data analyst job market**! This project is a comprehensive analysis of 💰 **top-paying roles**, 🔥 **in-demand skills**, and 📈 **optimal skill sets** to thrive in the field of data analytics. Through SQL-powered insights, I’ve uncovered trends that can help aspiring data analysts navigate their career paths effectively.  
 
-<p align="center">
-    <img src="https://tenor.com/vquKVbdFvWO.gif" alt="FunnyGIF">
-</p>
+<div align="center">
+    <img src="https://media1.tenor.com/m/96sQtTGIsPQAAAAC/simpsons-homer.gif" alt="FunnyGIF" style="max-width: 100%; height: auto;">
+</div>
 
 ---
 
