@@ -121,6 +121,18 @@ Feel free to explore the SQL queries and analysis in the [project_sql folder](/P
 
 ---
 
+## 📬 Contact
+
+For any questions, suggestions, or feedback, feel free to reach out:
+
+- **Email**: [Tushar Yadav](mailto:tyadav940@gmail.com)
+- **GitHub**: [tusharyadav99](https://github.com/tusharyadav99/)
+- **LinkedIn**: [Tushar Yadav](https://www.linkedin.com/in/tushar-yadav-865237183/)
+
+I would love to hear from you!
+
+---
+
 Thank you for taking the time to explore my project! 🚀
 
 ---
